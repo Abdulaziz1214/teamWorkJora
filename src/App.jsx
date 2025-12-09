@@ -9,6 +9,12 @@ const App = () => {
 
 
 
+      <p>mkmkmkmkm</p> 
+
+
+      
+
+      <h1>jorabek</h1>
     </div>
   )
 }
