@@ -4,7 +4,12 @@ const App = () => {
   return (
     <div>
       <h1>Hello Jora</h1>
-      <h4>Nma nma gap</h4>
+      <p>mkmkmkmkm</p> 
+
+
+      
+
+      <h1>jorabek</h1>
     </div>
   )
 }
