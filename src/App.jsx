@@ -1,4 +1,5 @@
 import React from 'react'
+import Thebestteacher from './components/Thebestteacher'
 
 const App = () => {
   return (
@@ -11,7 +12,7 @@ const App = () => {
 
       <p>mkmkmkmkm</p> 
 
-
+      <Thebestteacher/>
       
 
       <h1>jorabek</h1>
