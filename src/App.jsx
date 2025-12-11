@@ -5,8 +5,20 @@ const App = () => {
     <div>
       <h1>Hello Jora</h1>
       <p>Zari zari zari turshe</p>
-      <h4>Ezo boq kemadi gvbhnj</h4>
-      <h1>emir jonka</h1>
+      
+
+
+      <h2>Zarishke</h2>
+
+
+
+
+
+
+
+
+
+      <zari/>
     </div>
   )
 }
