@@ -1,5 +1,6 @@
 import React from 'react'
 import Thebestteacher from './components/Thebestteacher'
+import Aziz from './components/Aziz'
 
 const App = () => {
   return (
@@ -13,7 +14,7 @@ const App = () => {
       <p>mkmkmkmkm</p> 
 
       <Thebestteacher/>
-      
+      <Aziz />
 
       <h1>jorabek</h1>
     </div>
