@@ -1,24 +1,21 @@
 import React from 'react'
 import Thebestteacher from './components/Thebestteacher'
 import Aziz from './components/Aziz'
+import Navbar from './components/Navbar'
 
 const App = () => {
   return (
     <div>
-      <h1>Hello Jora</h1>
-      <p>Zari zari zari turshe</p>
-      <h4>Hello indesi</h4>
-
+      <Navbar/>
 
 
       <p>mkmkmkmkm</p> 
 
-      <Thebestteacher/>
       <Aziz />
 
       <h1>jorabek</h1>
+      {/* <Thebestteacher/> */}
     </div>
   )
 }
-
 export default App
